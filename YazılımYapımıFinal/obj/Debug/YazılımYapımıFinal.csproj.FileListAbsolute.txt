@@ -1,0 +1,12 @@
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.csprojAssemblyReference.cache
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.Form1.resources
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.Kelime.resources
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.Properties.Resources.resources
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.İşlem.resources
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.csproj.GenerateResource.cache
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\bin\Debug\YazılımYapımıFinal.exe.config
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\bin\Debug\YazılımYapımıFinal.exe
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\bin\Debug\YazılımYapımıFinal.pdb
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.exe
+C:\Users\Cengizhan\source\repos\YazılımYapımıFinal\YazılımYapımıFinal\obj\Debug\YazılımYapımıFinal.pdb
